@@ -1,0 +1,23 @@
+# 构建产物
+build/
+.gradle/
+.kotlin/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# 本机配置：SDK 路径与签名凭据，绝不提交
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 日志与临时文件
+*.log

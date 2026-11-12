@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用图标底色：与自带（非动态取色）配色同一支靛蓝，保持品牌一致 -->
+    <color name="ic_launcher_background">#3F4E7A</color>
+</resources>
